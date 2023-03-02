@@ -1,0 +1,43 @@
+h1 {
+   color: green;
+   background-color: black;
+   background-size: 100px;
+   width: 50%;
+   margin-top: 0%;
+   font-size: 60px;
+   margin-left: 25%;
+   text-align: center;
+}
+
+img {
+   margin-left: 35%;
+   border-style: solid;
+   color: bisque;
+   box-sizing: border-box;
+   border-radius: 5%;
+   border-width: 20px;
+}
+
+ul li {
+   list-style-type: none;
+}
+
+ul li a {
+   text-decoration: none;
+   background: black;
+   color: white;
+   display: block;
+   width: 60px;
+   padding: 5px 5px;
+   margin: 5px;
+}
+
+li {
+   list-style-type: none;
+}
+
+li a {
+   text-decoration: none;
+   background: black;
+   color: whitesmoke;
+}
